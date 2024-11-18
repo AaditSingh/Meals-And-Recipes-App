@@ -14,7 +14,7 @@ Flutter
 
 # Screenshots
 
-![mealsAppPhoto1](https://github.com/user-attachments/assets/76c9aa28-4a75-4298-8c62-edd50faf4e8e)
+![mealsAppPhoto1](https://github.com/user-attachments/assets/76c9aa28-4a75-4298-8c62-edd50faf4e8e | width=100)
 ![mealsAppPhoto2](https://github.com/user-attachments/assets/644764c3-e2b3-4f49-86b2-a0dd3c00bb33)
 ![mealsAppPhoto3](https://github.com/user-attachments/assets/637cc44e-1616-4ce7-9e6f-2d65604477c9)
 ![mealsAppPhoto4](https://github.com/user-attachments/assets/520e9993-423e-4921-91d3-c25d6a0ab85a)
