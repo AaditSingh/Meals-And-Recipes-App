@@ -13,5 +13,13 @@ Validated Functionality: Tested by 25 participants to ensure usability and relia
 
 Flutter
 
+# How To Use 
+
+1. Launch the app.
+2. Browse the categorized meals and recipes.
+3. Apply filters to find recipes matching your dietary preferences.
+4. Explore detailed instructions for each recipe.
+
+
 
 
