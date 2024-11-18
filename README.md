@@ -1,16 +1,17 @@
-# meals_app
+# Meals and Recipes App
 
-A new Flutter project.
+An interactive mobile application built with Flutter that features over 50+ categorized meals and recipes. The app empowers users to filter meals based on dietary preferences, enhancing their meal planning experience. The user-friendly design and functionality were validated through testing with 25 participants.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+Extensive Recipe Collection: Access 50+ categorized meals and recipes.
+Customizable Filters: Filter meals based on dietary preferences (e.g., vegetarian, gluten-free, etc.).
+Interactive UI: Intuitive and user-friendly interface for a seamless experience.
+Validated Functionality: Tested by 25 participants to ensure usability and reliability.
 
-A few resources to get you started if this is your first Flutter project:
+# Technology Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
