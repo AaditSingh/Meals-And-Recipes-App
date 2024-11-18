@@ -14,7 +14,7 @@ Flutter
 
 # Screenshots
 
-<img src="[url](https://github.com/user-attachments/assets/76c9aa28-4a75-4298-8c62-edd50faf4e8e)" width="50" height="50">
+<img src="[url](https://github.com/user-attachments/assets/76c9aa28-4a75-4298-8c62-edd50faf4e8e)" width="150" height="150">
 ![mealsAppPhoto1](https://github.com/user-attachments/assets/76c9aa28-4a75-4298-8c62-edd50faf4e8e | width=100)
 ![mealsAppPhoto2](https://github.com/user-attachments/assets/644764c3-e2b3-4f49-86b2-a0dd3c00bb33)
 ![mealsAppPhoto3](https://github.com/user-attachments/assets/637cc44e-1616-4ce7-9e6f-2d65604477c9)
